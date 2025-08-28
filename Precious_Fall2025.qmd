@@ -1,0 +1,32 @@
+---
+title: "PC_DisEco_Fall2025"
+author: "Precious"
+format: html
+execute: 
+  echo: true
+---
+
+Find area of a circle with radius 5 cm.
+
+Formula: π * r^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+## Image
+
+![Epichloë–grass–livestock triad](https://raw.githubusercontent.com/anyadoc/hostfile/main/EpiTriad.png)
+
+The image illustrates the ecological triad among *Epichloë* endophytes, cool‑season forage grasses (such as tall fescue/ryegrass), and mammals that interact with these plants. 
+Endophyte-derived alkaloids can deter insect herbivores and influence plant fitness, but some compounds contribute to livestock toxicoses. 
+This simple diagram helps frame host–microbe–consumer interactions that motivate genomic and metabolomic analyses in disease ecology and plant pathology.
