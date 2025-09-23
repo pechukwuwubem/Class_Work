@@ -30,3 +30,33 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 The image illustrates the ecological triad among *Epichloë* endophytes, cool‑season forage grasses (such as tall fescue/ryegrass), and mammals that interact with these plants. 
 Endophyte-derived alkaloids can deter insect herbivores and influence plant fitness, but some compounds contribute to livestock toxicoses. 
 This simple diagram helps frame host–microbe–consumer interactions that motivate genomic and metabolomic analyses in disease ecology and plant pathology.
+
+
+### Sample Size Table
+![Sample Size Table](https://github.com/anyadoc/audiseco/blob/main/ss_table.png)
+
+# Question 1: Sample size for 5% prevalence, 95% confidence, N = 5000
+N <- 5000
+confidence <- 0.95
+p <- 0.05
+D <- p * N  # Number of diseased deer
+n <- ceiling((log(1 - confidence) / log(1 - p)) * (N - (D / 2)) / N)
+cat("Sample size needed:", n, "\n")
+
+# Question 2: Compare sample sizes for large populations
+# Scenario a: 95% confidence, 1% prevalence
+confidence_a <- 0.95
+p_a <- 0.01
+n_a <- ceiling(log(1 - confidence_a) / log(1 - p_a))
+cat("Sample size for 95% confidence, 1% prevalence:", n_a, "\n")
+
+# Scenario b: 99% confidence, 2% prevalence
+confidence_b <- 0.99
+p_b <- 0.02
+n_b <- ceiling(log(1 - confidence_b) / log(1 - p_b))
+cat("Sample size for 99% confidence, 2% prevalence:", n_b, "\n")
+
+# Question 3: Prevalence upper bound using Rule of Three
+n <- 300
+p_upper <- 3 / n * 100  # Convert to percentage
+cat("95% confidence that prevalence is less than or equal to", p_upper, "%\n")
