@@ -102,3 +102,32 @@ n <- 300
 p_upper <- 3 / n * 100  # Convert to percentage
 cat("95% confidence that prevalence is less than or equal to", p_upper, "%\n")
 
+# Worksheet 3: Measures of Disease Frequency — Prevalence and Incidence
+
+### a) Daily Incidence
+
+| Date | New Cases | Susceptible Before | Incidence |
+|------|------------|--------------------|------------|
+| 2025-06-12 | 5 | 52 | 0.096 (9.6%) |
+| 2025-06-14 | 2 | 47 | 0.043 (4.3%) |
+| 2025-06-15 | 0 | 45 | 0 (0%) |
+
+**Unit:** cases per animal (often expressed per 100 animals)
+
+### b) Prevalence
+
+| Date | Active Cases | Prevalence |
+|------|---------------|-------------|
+| 2025-06-13 | 9 | 0.161 (16.1%) |
+| 2025-06-16 | 5 | 0.089 (8.9%) |
+
+**Unit:** cases per animal (proportion or %)
+
+### c) Day with Equal Prevalence and Incidence
+- **June 14, 2025**
+
+### d) Day with Lowest Incidence
+- **June 15, 2025**
+
+### Interpretation
+The incidence peaked on June 12, 2025, suggesting a mid-outbreak transmission surge, followed by declining new cases. Prevalence also declined after June 13, reflecting recovery and acquired immunity. By June 16, no new cases occurred, marking the end of the outbreak.
