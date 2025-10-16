@@ -105,29 +105,136 @@ cat("95% confidence that prevalence is less than or equal to", p_upper, "%\n")
 # Worksheet 3: Measures of Disease Frequency — Prevalence and Incidence
 
 ### a) Daily Incidence
+(From the table; first day they show RE or OD.)
 
-| Date | New Cases | Susceptible Before | Incidence |
-|------|------------|--------------------|------------|
-| 2025-06-12 | 5 | 52 | 0.096 (9.6%) |
-| 2025-06-14 | 2 | 47 | 0.043 (4.3%) |
-| 2025-06-15 | 0 | 45 | 0 (0%) |
+06/10/25: 1889B → first affected 06/10
 
-**Unit:** cases per animal (often expressed per 100 animals)
+06/11/25: 2355B, 2565B, 5666B, 5971B → first affected 06/11 (4 elk)
+
+06/12/25: 2320B, 2763B, 2772B, 4597B, 6001B → first affected 06/12 (5 elk)
+
+06/13/25: 1322B, 4533B → first affected 06/13 (2 elk)
+
+06/14/25: 1766B, 4599B → first affected 06/14 (2 elk)
+
+No elk first became affected on 06/15/25 or 06/16/25.
+
+A. 06/12/25
+
+New cases on 06/12 = 5 (2320B, 2763B, 2772B, 4597B, 6001B).
+
+Cases that had already first occurred before 06/12 (i.e., on 06/10 or 06/11) = 5 (1889B + 4 from 06/11).
+
+Population at risk at start of 06/12 = 55 − 4 = 51.
+
+Incidence (06/12) = 5/51=0.0980. 5/51=0.0980 = 0.098 cases per elk-day.
+
+B. 06/14/25
+
+New cases on 06/14 = 2 (1766B, 4599B).
+
+Population at risk at start of 06/14 = 51 − 5 = 46.
+
+Incedence = 2/44 =0.045 cases per elk-day
+
+C. 06/15/25
+
+New cases on 06/15 = 0 (no first occurrences on 06/15).
+
+Incedence = 0/42 = 0.000 cases per elk-day
+
 
 ### b) Prevalence
 
-| Date | Active Cases | Prevalence |
-|------|---------------|-------------|
-| 2025-06-13 | 9 | 0.161 (16.1%) |
-| 2025-06-16 | 5 | 0.089 (8.9%) |
+**Prevalence** is the number of elk with conjunctivitis (showing RE or OD) divided by the total herd size (56).
 
-**Unit:** cases per animal (proportion or %)
+- **06/13/25**:
+  - Affected elk: 12 (2320B, 2355B, 2565B, 2763B, 2772B, 1889B, 1322B, 4533B, 4597B, 5666B, 5971B, 6001B).
+  - Prevalence = 12 / 56 = 0.214 (or 21.4%).
 
-### c) Day with Equal Prevalence and Incidence
-- **June 14, 2025**
+- **06/16/25**:
+  - Affected elk: 5 (2320B, 1766B, 1322B, 4533B, 4599B).
+  - Prevalence = 5 / 56 = 0.089 (or 8.9%).
+  
+  **Unit for prevalence**: Proportion (dimensionless, often expressed as a percentage).
+
+## c) Day When Prevalence Equals Incidence (Numerically, Ignoring Units)
+**Prevalence** is the number of elk with conjunctivitis (RE or OD) divided by 56. **Incidence** is the number of new cases divided by susceptible elk (not infected or immune). We compare their numerical values:
+
+- **06/10/25**: Prevalence = 1 / 56 = 0.0179, Incidence = 1 / 56 = 0.0179. Equal.
+The day when prevalence equals incidence numerically is **06/10/25**.
 
 ### d) Day with Lowest Incidence
-- **June 15, 2025**
+- **06/16/25**
 
-### Interpretation
-The incidence peaked on June 12, 2025, suggesting a mid-outbreak transmission surge, followed by declining new cases. Prevalence also declined after June 13, reflecting recovery and acquired immunity. By June 16, no new cases occurred, marking the end of the outbreak.
+### Submit a paragraph write-up on the basics of tick identification methods and the public health significance of ticks.
+
+**Tick Identification**
+Ticks are blood-feeding ectoparasites that infest humans, livestock, and wildlife, making their identification and control crucial in both veterinary and public health contexts. Tick identification
+generally depends on morphological and molecular techniques. Morphological identification involves analyzing external features like mouthparts, scutum patterns, festoons, and leg segmentation with a stereomicroscope and standard taxonomic keys to differentiate between genera (such as Ixodes, Amblyomma, Rhipicephalus) and developmental stages or patterns, such as a white dot on the female lone star tick or ornate designs on the American dog tick. Molecular techniques, including PCR and DNA barcoding of mitochondrial genes (such as cox1 or 16S rRNA), enable accurate species identification, particularly when morphological features are unclear or damaged. Ticks are significant in public health because they carry various zoonotic pathogens, such as Borrelia burgdorferi (which causes Lyme disease), Rickettsia rickettsii (responsible for Rocky Mountain spotted fever), Ehrlichia chaffeensis, Anaplasma phagocytophilum, and tick-borne encephalitis viruses. Their capacity to transmit multiple pathogens and their range expansion driven by climate and ecological changes make accurate tick identification crucial for surveillance, diagnosis, and control efforts to reduce tick-borne disease risks.
+
+## Exam Redo for 3 questions
+
+## Question: In 2015, a mass die-off of Saiga antelope occurred in Kazakhstan, resulting in the deaths of over 200,000 animals within a short period. Briefly describe the proximate cause of this extraordinary mortality event and explain how it led to such large-scale deaths. What measures could be implemented to prevent similar mortality events in the future? Finally, discuss broader conservation strategies that could help safeguard Saiga antelopes from extinction due to disease outbreaks.
+
+**Answer** : The proximate cause of the 2015 Saiga antelope mass die-off in Kazakhstan was hemorrhagic septicemia triggered by the bacterium Pasteurella multocida type B. This opportunistic pathogen, which typically lives harmlessly in the antelopes' tonsils as a commensal bacterium, became virulent due to unusual environmental conditions—specifically, abnormally high humidity and temperatures in the weeks leading up to the event. These weather anomalies likely stressed the animals and altered their nasal microbiomes, allowing the bacteria to proliferate rapidly and invade the bloodstream, causing acute septicemia that killed individuals within hours. The die-off coincided with the calving season, when large aggregations of females and newborns gathered in central Kazakhstan's steppe grasslands, facilitating explosive transmission through close contact and shared environments. This combination resulted in over 200,000 deaths—more than half the global population at the time—across multiple herds within just three weeks. 
+
+To prevent similar mortality events in the future, several targeted measures could be implemented, focusing on early detection, risk mitigation, and resilience building. These include establishing real-time weather and health monitoring systems to identify high-risk conditions (e.g., elevated humidity and temperature) during calving seasons, allowing for potential interventions like temporary herd dispersal if feasible. Reducing interactions between Saiga and domestic livestock through zoning or fencing could minimize cross-species pathogen spillover, as livestock may harbor related bacteria. Research into vaccines against Pasteurella multocida for wildlife could be pursued, though challenges exist due to the bacterium's commensal nature. Additionally, building larger, more robust populations through overall conservation efforts would enhance genetic diversity and demographic resilience, enabling herds to better withstand periodic die-offs.
+
+Broader conservation strategies to safeguard Saiga antelopes from extinction due to disease outbreaks should integrate disease management with holistic ecosystem protection. Key approaches include expanding and strengthening protected area networks to cover more of the Saiga's migratory range, reducing habitat fragmentation from infrastructure like roads and railways that could stress populations or facilitate disease spread. Anti-poaching enforcement through ranger patrols, community-based monitoring, and international trade regulations (e.g., under CITES) remains critical, as poaching for horns has historically decimated populations, leaving them more vulnerable to disease. Engaging local communities in conservation via education, alternative livelihoods, and benefit-sharing programs can foster stewardship and reduce human-wildlife conflicts. Long-term strategies should incorporate climate change adaptation, such as modeling future weather patterns to predict disease risks, and promoting international cooperation through frameworks like the Convention on Migratory Species (CMS) to coordinate across range states including Kazakhstan, Russia, Uzbekistan, and Mongolia. Population monitoring via satellite tracking and genetic studies would further support adaptive management, aiming for sustainable growth to millions of individuals as seen in initiatives like the Altyn Dala Conservation Initiative.
+
+## Question: Define Ro. Estimate Ro for the following scenario. Red flamingo represents an infectious case, and blue are susceptibles; an arrow indicates transmission. Explain your findings in the context of real-world utility of Ro.
+
+**Answer** : R₀ (pronounced "R naught" or "R zero") is the basic reproduction number in epidemiology. It represents the average number of secondary infections caused by a single infectious individual in a population where everyone else is susceptible (i.e., no immunity or interventions). It assumes ideal conditions for transmission, such as no prior exposure or control measures. If R₀ > 1, the disease can spread and potentially lead to an epidemic; if R₀ < 1, the outbreak tends to die out; if R₀ = 1, the disease persists at a constant level.
+
+Estimation of R₀ for the Scenario
+The image depicts four separate transmission scenarios (panels separated by dashed lines), each starting with a red flamingo as the initial infectious case. Arrows indicate direct transmissions to blue flamingos (susceptibles who become infected). To estimate R₀, we calculate the average number of direct secondary infections per initial infectious case across the panels, as this samples the offspring distribution in a susceptible population.
+
+Panel 1: The red flamingo has 1 arrow to 1 blue flamingo → 1 secondary infection.
+Panel 2: The red flamingo has 3 arrows to 3 blue flamingos → 3 secondary infections.
+Panel 3: The red flamingo has 2 arrows directly to 2 blue flamingos (one horizontal to the top-right blue, one diagonal down to the bottom-left blue). The additional arrow from the bottom-left blue to the bottom-right blue represents a tertiary infection (from a secondary case), which is not counted as a direct secondary from the initial red. → 2 secondary infections.
+Panel 4: The red flamingo has no arrows → 0 secondary infections.
+
+The number of secondary infections per initial case: 1, 3, 2, 0.
+R₀ estimate = (1 + 3 + 2 + 0) / 4 = 6 / 4 = 1.5.
+This is arrived at by summing the direct secondary cases across all initial infectors and dividing by the number of initial cases, providing a sample mean of the reproduction number under the assumption of a fully susceptible population.
+
+Explanation in the Context of Real-World Utility of R₀
+An estimated R₀ of 1.5 suggests the disease has moderate transmissibility and could sustain spread in a susceptible population, as each case generates more than one new case on average. In real-world scenarios, R₀ is a foundational metric for public health decision-making. For instance, it helps predict epidemic potential—diseases like measles (R₀ ≈ 12–18) require high vaccination rates for control, while something like seasonal influenza (R₀ ≈ 1.3) might need less aggressive interventions. The herd immunity threshold is calculated as 1 – 1/R₀; here, it would be 1 – 1/1.5 ≈ 33%, meaning at least 33% of the population needs immunity to prevent widespread transmission.
+R₀ guides resource allocation, such as stockpiling vaccines or planning quarantine measures, and informs models for forecasting outbreak trajectories. However, real-world utility has limitations: R₀ is an average and doesn't account for population heterogeneity (e.g., superspreaders, as hinted by the variability in the panels from 0 to 3), behavioral changes, or interventions, which lower the effective reproduction number (R_e). Estimates like this one from small samples can be uncertain, so in practice, R₀ is refined using larger datasets, growth rates, or genomic sequencing for more accurate policy-making, as seen in responses to COVID-19 (initial R₀ ≈ 2–3).
+
+## Question: Steve studies a population of the Suwannee Alligator Snapping turtle (Macrochelys suwanniensis) in Florida. He has been conducting a mark-recapture study of this population since 2010. Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
+
+## | Year | Population estimate | Old cases | New cases |
+| ---- | ------------------- | --------- | --------- |
+| 2015 | 133                 | 0         | 4         |
+| 2016 | 125                 | 2         | 5         |
+| 2017 | 112                 | 4         | 8         |
+| 2018 | 145                 | 5         | 4         |
+| 2019 | 136                 | 4         | 2         |
+
+## Question 1: Turtles without visible fibroma are considered susceptible to the disease. a) Which year has the highest incidence of turtle fibroma? Make sure you write the appropriate unit for the incidence value. Show your
+
+**Answer**: 
+| Year | Population | Old cases | Susceptible | New cases | Incidence (cases per turtle-year)          
+| ---- | ---------- | --------- | ----------- | --------- | --------------------------
+| 2015 | 133        | 0         | 133         | 4         | (4 / 133) = 0.030 cases per turtle-year
+| 2016 | 125        | 2         | 123         | 5         | (5 / 123) = 0.041 cases per turtle-year
+| 2017 | 112        | 4         | 108         | 8         | (8 / 108) = 0.074 cases per turtle-year
+| 2018 | 145        | 5         | 140         | 4         | (4 / 140) = 0.029 cases per turtle-year
+| 2019 | 136        | 4         | 132         | 2         | (2 / 132) = 0.015 cases per turtle-year
+
+The year 2017 had the highest incidence of turtle fibroma, with an incidence of 0.074 cases per turtle-year.
+
+## Question 1b: When is the prevalence lowest? When is the prevalence highest? Write the unit for prevalence if applicable.
+
+**Answer** : 
+| Year | Population | Old cases | New cases | Total cases | Prevalence 
+| ---- | ---------- | --------- | --------- | ----------- | -----------------|
+| 2015 | 133        | 0         | 4         | 4           | 4 / 133 =  0.030 |
+| 2016 | 125        | 2         | 5         | 7           | 7 / 125 =  0.056 |
+| 2017 | 112        | 4         | 8         | 12          | 12 / 112 = 0.107 |
+| 2018 | 145        | 5         | 4         | 9           | 9 / 145 =  0.062 |
+| 2019 | 136        | 4         | 2         | 6           | 6 / 136 =  0.044 |
+
+The prevalence of turtle fibroma was lowest in 2015 and highest in 2017
