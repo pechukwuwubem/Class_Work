@@ -238,3 +238,35 @@ The year 2017 had the highest incidence of turtle fibroma, with an incidence of 
 | 2019 | 136        | 4         | 2         | 6           | 6 / 136 =  0.044 |
 
 The prevalence of turtle fibroma was lowest in 2015 and highest in 2017
+
+
+## Oct 15, 2015 ##
+## Worksheet 4: Multihost Pathogens, Spillover ##
+
+## MERS-CoV
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in health care–associated outbreaks. Human MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died. Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control). Which of the following statements about MERS-CoV are correct? (If it is incorrect, provide an explanation why the statement is incorrect.)
+
+## Question 1: 1.	MERS-CoV is primarily maintained in human populations. (2 points) ##
+
+**Answer**: **Incorrect.** MERS-CoV is primarily maintained in dromedary camels; human cases are spill-over events from the animal reservoir, not sustained human-to-human transmission. Humans are usually infected through direct or indirect contact with infected camels or their secretions.
+
+
+##Question 2: 2.	Camels serve as the main animal reservoir for MERS-CoV. (2 points)
+
+**Answers**: Correct
+Explanation: Dromedary camels are the natural reservoir hosts of MERS-CoV. The virus circulates in camel populations, and humans are usually infected through direct or indirect contact with infected camels or their secretions.
+
+##Question 3: 3.	Humans are dead-end hosts for MERS-CoV. (2 points)
+
+**Answer**: Correct
+Explanation: Human-to-human transmission can occur (especially in healthcare settings), but it is limited and unsustained. The virus does not establish long-term transmission chains in humans, so humans are considered dead-end hosts.
+
+##Question 4: 4.	The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (2 points)
+Incorrect
+Explanation: The case fatality rate is about 35%, not 65%. Roughly one-third of reported MERS cases result in death, according to WHO and ECDC data.
+
+##Question 5: The epidemic curve indicates this is a point source outbreak. (2 points)
+
+**Answers**: Incorrect
+Explanation: The epidemic curve shows multiple peaks over several years (2012–2025), which is consistent with sporadic and healthcare-associated outbreaks, not a single point source. Point source outbreaks typically show one sharp peak over a short period.
+
