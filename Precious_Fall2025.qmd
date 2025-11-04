@@ -270,3 +270,56 @@ Explanation: The case fatality rate is about 35%, not 65%. Roughly one-third of 
 **Answers**: Incorrect
 Explanation: The epidemic curve shows multiple peaks over several years (2012–2025), which is consistent with sporadic and healthcare-associated outbreaks, not a single point source. Point source outbreaks typically show one sharp peak over a short period.
 
+
+##Oct 27, 2025 
+
+## Worksheet 5: Community Epidemiology Framework
+
+**Marburg Virus Outbreak, Rwanda 2024**
+The first person to become infected in the current Marburg virus outbreak in Rwanda
+probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit
+bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of
+Marburg virus infection were documented, and most of the people infected were health
+care workers, mainly those who worked in intensive care units.
+
+**Question 1** : Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging
+
+**Answers** : Classification: Spillover Event or Emerging Infectious Disease (5 points)
+Using Fenton and Pedersen’s community epidemiology framework, this Marburg virus outbreak in Rwanda would be classified primarily as a spillover event, although it shows early characteristics of an emerging infectious disease.
+
+Justification:
+
+Spillover event:
+The index (first) case was infected after exposure to a natural wildlife reservoir—Egyptian rousette bats (Rousettus aegyptiacus)—inside a cave. This direct transmission from a wildlife host to a human represents a zoonotic spillover, where the pathogen crosses the species barrier under ecological circumstances.
+
+Emerging infectious disease potential:
+Following the initial spillover, the virus spread human-to-human, especially among healthcare workers, indicating secondary transmission chains within human populations. This transition reflects an emergent phase where ecological, behavioral, and healthcare factors enable sustained transmission.
+
+Framework context (Fenton & Pedersen):
+Their model emphasizes how pathogen dynamics arise from the interaction between reservoir hosts, humans, and environmental conditions. Here, the cave environment (reservoir interface) and healthcare transmission (community amplification) align with a spillover origin that may evolve into an emerging epidemic.
+
+**Question 2** : What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
+
+**Answers** : Measures to Reduce Transmission in Community and Healthcare Settings (5 points)
+
+In the community:
+
+Limit human–bat contact: Restrict or monitor access to bat-inhabited caves; install physical barriers and post warning signage.
+
+Health education: Educate local populations about avoiding fruit contaminated by bats and safe burial practices.
+
+Surveillance and early detection: Establish rapid reporting systems in at-risk areas to identify and isolate suspected cases promptly.
+
+Safe cultural practices: Modify high-risk behaviors such as handling bushmeat or entering caves without protection.
+
+In healthcare settings:
+
+Infection prevention and control (IPC): Use full PPE (gowns, gloves, masks, face shields) for all suspected or confirmed cases.
+
+Isolation and cohorting: Isolate infected patients in negative-pressure or dedicated wards to prevent nosocomial spread.
+
+Training and awareness: Regularly train healthcare workers on proper donning/doffing of PPE and handling of infectious waste.
+
+Strict biosafety protocols: Decontaminate instruments, waste, and surfaces; use safe injection and disposal practices.
+
+Supportive care units: Designate specific facilities for viral hemorrhagic fevers to reduce risk to general ICUs.
