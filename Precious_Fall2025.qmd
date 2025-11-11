@@ -323,3 +323,49 @@ Training and awareness: Regularly train healthcare workers on proper donning/dof
 Strict biosafety protocols: Decontaminate instruments, waste, and surfaces; use safe injection and disposal practices.
 
 Supportive care units: Designate specific facilities for viral hemorrhagic fevers to reduce risk to general ICUs.
+
+#Worksheet 6#
+
+*Using QPweb (Quantitative Parasitology)*
+
+*Answer 1*
+QPweb                 Tue Nov 11 05:40:32 2025 
+
+     Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+Pond1$vertico                    20      6     0.300       0.140     0.525 
+
+QPweb                 Tue Nov 11 05:41:53 2025 
+
+     Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+Pond2$vertico                    15      1     0.067       0.003     0.302 
+
+*Thus,*
+
+Pond 1:
+
+Prevalence = 30.0%
+
+95% Confidence Interval = 14.0% – 52.5%
+
+Pond 2:
+
+Prevalence = 6.7%
+
+95% Confidence Interval = 0.3% – 30.2%
+
+*Answer 2*
+  Comparison of prevalences by Fisher's exact test
+
+                                  N  Infected Non-inf.   Prev.%
+Pond1$vertico                     20       6      14      30.0 
+Pond2$vertico                     15       1      14       6.7 
+
+     Two-sided p-value:  0.1987 
+     
+*Since the p-value = 0.1987, which is greater than 0.05, the difference in prevalence between Pond 1 and Pond 2 is not statistically significant.*
+
+✅ Conclusion: There is no statistically significant difference in Vertico prevalence between the two ponds at the 95% confidence level.     
