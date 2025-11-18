@@ -369,3 +369,168 @@ Pond2$vertico                     15       1      14       6.7
 *Since the p-value = 0.1987, which is greater than 0.05, the difference in prevalence between Pond 1 and Pond 2 is not statistically significant.*
 
 ✅ Conclusion: There is no statistically significant difference in Vertico prevalence between the two ponds at the 95% confidence level.     
+
+
+#Worksheet 7: Nipah Virus, Langya Henipavirus & Avian Reovirus#
+
+*Nipah Virus*
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission
+in places like Malaysia and Bangladesh. Describe how the modes of transmission differ
+between these two regions and explain how these differences influence the preventive
+measures recommended in each setting.
+
+*Answers*
+Nipah virus circulates within the same reservoir—fruit bats of the genus Pteropus—but the ecology and spillover pathways differ sharply between Malaysia and Bangladesh. These differences shape not only how outbreaks start but also the control strategies used in each region.
+
+Malaysia: spillover via pigs as amplifying hosts
+The 1998–1999 Malaysian outbreak was driven primarily by a bat–pig–human transmission chain. Bats fed on fruit trees planted near pig farms, contaminating pig enclosures with saliva, urine, or partially eaten fruit. Infected pigs developed respiratory signs and amplified the virus to high titers, enabling efficient pig-to-human spread among farmers and abattoir workers. Human-to-human transmission was minimal.
+
+Implications for prevention in Malaysia:
+Because livestock were the key bridge, prevention emphasized:
+
+Separating fruit bats and pig farms (removal of fruit trees near enclosures, modifying farm layouts).
+
+Surveillance and culling of infected pigs to break the amplification cycle.
+
+Improved biosecurity and personal protective equipment for pig farmers and slaughterhouse workers.
+
+Movement controls on pigs during outbreaks.
+Overall, interventions targeted agricultural practices and animal husbandry rather than community-level human behaviors.
+
+Bangladesh: direct bat-to-human and human-to-human transmission
+In contrast, Bangladesh experiences repeated spillover events driven largely by direct exposure to bat-contaminated food—especially fresh date palm sap harvested overnight. Bats lick sap streams or urinate into collecting pots, seeding virus directly into a popular seasonal drink. Person-to-person transmission, often through close caregiving of symptomatic individuals, is much more common in Bangladesh than in Malaysia.
+
+Implications for prevention in Bangladesh:
+Control focuses on limiting direct exposure to contaminated products and reducing secondary spread:
+
+Protecting date-palm sap collection pots with bamboo skirts or nets (“banjhi”) to prevent bat access.
+
+Discouraging consumption of raw, unprocessed date palm sap during high-risk seasons.
+
+Promoting safe caregiving practices and early isolation of suspected cases due to frequent human-to-human transmission.
+
+Community education on recognizing symptoms and reducing high-risk cultural practices.
+
+*Avian Reovirus*
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the
+different transmission routes of ARV and explain which environmental factors favor its
+transmission. What pathogen characteristics support one of these transmission routes?
+Finally, provide an example of a wild bird disease caused by ARV and briefly describe
+its impact on the affected population. 
+
+*Answers*
+Avian reoviruses (ARV) spread efficiently in poultry and wild birds because they exploit several transmission pathways and are supported by environmental and viral traits that allow them to persist in harsh conditions.
+
+Transmission Routes of ARV
+1. Horizontal Transmission
+
+a. Fecal–oral route
+The most common pathway. Infected birds shed large quantities of virus in feces. Other birds become infected when they ingest contaminated feed, water, litter, or soil.
+
+b. Respiratory route
+Aerosolized viral particles or dust contaminated with feces and secretions can be inhaled, especially in crowded housing or roosts.
+
+c. Direct contact
+Bird-to-bird contact spreads the virus rapidly within flocks.
+
+d. Fomite transmission
+ARV survives on contaminated equipment, clothing, boots, cages, and transport crates, enabling mechanical movement between facilities.
+
+2. Vertical Transmission
+
+ARV can pass from infected hens to chicks via the egg. Embryos may become infected early in development, leading to weak chicks, early mortality, or birds that hatch already shedding virus.
+
+Vertical transmission is particularly important because it introduces ARV into naïve flocks and sustains long-term circulation.
+
+Environmental Factors That Favor ARV Transmission
+
+High bird density (poultry houses, shared roosts): increases contact and fecal–oral cycling.
+
+Poor ventilation and dust accumulation: enhances respiratory spread.
+
+Moist, organic-rich litter: supports viral stability and promotes fecal contamination.
+
+Low sanitation / inadequate disinfection: ARV is resistant to many disinfectants.
+
+Cool temperatures: prolong viral survival in the environment.
+
+Shared water sources in wild birds (ponds, wetlands): facilitate ingestion of contaminated material.
+
+These factors create an environment where both horizontal and vertical transmission can flourish.
+
+Pathogen Characteristics That Support a Transmission Route
+
+A key characteristic enabling fecal–oral and fomite transmission is the virus’s non-enveloped, double-stranded RNA structure.
+
+Non-enveloped viruses are inherently more resistant to:
+
+detergents
+
+desiccation
+
+temperature fluctuations
+
+many disinfectants
+
+This environmental durability allows ARV to remain infectious for long periods on litter, soil, carriers’ boots, and equipment—making fecal–oral and fomite routes highly effective.
+
+Example of a Wild Bird Disease Caused by ARV
+ARV-Associated Viral Arthritis/Tenosynovitis in Wild Turkeys
+
+Wild turkeys (Meleagris gallopavo) have experienced outbreaks of ARV-associated viral arthritis and tenosynovitis. Birds develop swollen hock joints, lameness, and reduced mobility.
+
+Impact on populations:
+
+Infected birds struggle to forage or escape predators.
+
+Survival rates drop, especially in juveniles.
+
+Affected flocks may experience reduced recruitment due to decreased mobility and increased predation.
+
+In severe cases, localized population declines have been recorded, particularly where environmental stress (cold, nutritional stress) worsens disease outcomes.
+
+*Langya henipavirus*
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.
+Describe the likely reservoir and transmission route of Langya virus. Why is LayV
+classified as a spillover and not a potential EID?
+
+*Answers*
+Langya henipavirus (LayV) is a newly detected zoonotic paramyxovirus, but its ecology and epidemiology point to a very limited capacity for sustained human spread.
+
+Reservoir and Transmission Route
+Likely Reservoir
+
+Evidence from field investigations in Shandong and Henan provinces shows very high LayV RNA detection rates in shrews (approximately 25% of sampled shrews).
+This strongly suggests that shrews are the primary natural reservoir of Langya virus.
+
+Transmission Route
+
+Current data indicate:
+
+Spillover from shrews to humans is the dominant pathway.
+
+Most human cases had recent animal exposure, particularly contact with shrews or environments where shrews forage.
+
+No confirmed human-to-human transmission has been observed; epidemiological investigations found no clustering among contacts or family members.
+
+Thus, LayV appears to be transmitted zoonotically through direct or environmental exposure to infected shrews rather than through sustained human spread.
+
+Why LayV Is Classified as a Spillover and Not a Potential Emerging Infectious Disease (EID)
+
+LayV is considered a spillover virus rather than an emerging infectious disease threat because:
+
+1. No evidence of human-to-human transmission
+
+A defining characteristic of an EID is the ability to spread within human populations. LayV has shown only sporadic, isolated human infections without secondary spread, making it ecologically contained.
+
+2. Low incidence and lack of outbreak patterns
+
+Reported cases occur sporadically, scattered geographically, and without temporal clustering—typical of repeated spillover events, not an expanding epidemic.
+
+3. Domesticated animals do not appear to be amplifying hosts
+
+Although LayV antibodies have been detected in some livestock (e.g., goats, dogs), there is no sign of efficient transmission or amplification that could promote broader spread into humans.
+
+4. Virus characteristics appear poorly adapted to humans
+
+Current evidence implies limited receptor compatibility and replication efficiency in humans, meaning LayV lacks traits needed for epidemic potential, unlike Nipah virus or Hendra virus which show stronger human pathogenicity patterns.
