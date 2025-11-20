@@ -534,3 +534,109 @@ Although LayV antibodies have been detected in some livestock (e.g., goats, dogs
 4. Virus characteristics appear poorly adapted to humans
 
 Current evidence implies limited receptor compatibility and replication efficiency in humans, meaning LayV lacks traits needed for epidemic potential, unlike Nipah virus or Hendra virus which show stronger human pathogenicity patterns.
+
+#Worksheet 8: EXAMINATION OF A RACOON ROUND WORM.#
+
+*Answers*
+
+Total Raccoons = 106
+Infected = 50
+uninfected = 56
+Overall prevalence:
+1. Overall prevalence of Baylisascaris procyonis
+•	Sample size (N) = 106 Raccoons
+Infected (num_Bpro \> 0) = **50**
+
+Uninfected (num_Bpro = 0) = **56**
+Prevalence
+50/106 = 0.472 ~ 47.2%
+
+![Picture1.png](/Users/preciouschukwubem/Downloads/Picture1.png)
+#2. Compare prevalence among the three regions (North, Central, South). Provide 95% CIs and a statistical comparison.
+
+![Picture2.png](/Users/preciouschukwubem/Downloads/Picture2.png)
+
+
+![Picture3.png](/Users/preciouschukwubem/Downloads/Picture3.png)
+
+![Picture4.png](/Users/preciouschukwubem/Downloads/Picture4.png)
+
+Region	n	  Infected	  Prevalence	         CI
+North	  49	 14	        28.6%	         16.6% - 43.3%
+Central	14	 9	        64.3%	         35.1% - 87.2%
+South	  43	27	        62.8%	         46.7% - 77%
+Statistical comparison (QPweb)
+
+•	Test: Fisher’s Test , p ≈ 0.0019
+Prevalence differs significantly among regions. North has much lower infection, while Central and South show high prevalence (>60%). This suggests regional ecological differences (habitat, climate, raccoon density, latrine distribution).
+
+#3. Compare prevalence between males and females. Provide 95% CIs and statistical comparison.
+
+![Picture5.png](/Users/preciouschukwubem/Downloads/Picture5.png)
+Sex	        N	         Infected	      Prevalence	         CI
+Female	    37	         24	            64.9%	        47.5% - 79.8%
+Male	      69	         26	            37.7%	        26.3% - 50.2%
+Statistical comparison (QPweb)
+•	Test: Fisher’s Test , p ≈ 0.0144
+Females have significantly higher prevalence than males. This may reflect behavioral differences (den attendance, contact with juveniles, latrine use).
+
+
+#4. Compare prevalence between adults and young adults. Provide 95% CIs and a statistical test.
+
+![Picture1.png](/Users/preciouschukwubem/Downloads/Picture1.png)
+
+![Picture2.png](/Users/preciouschukwubem/Downloads/Picture2.png)
+
+![Picture3.png](/Users/preciouschukwubem/Downloads/Picture3.png)
+Age Class	    n	      infected	           Prevalence	                CI
+Adult (A)   	69	      36	                  52.2%	            39.8% - 64.4 %
+Young Adult(YA)	37	    14	                  37.8%	            22.5% - 55.2%
+Statistical comparison (QPweb)
+
+•	Test: Fisher’s Test , p ≈ 0.1526
+Adults *tend* to have higher prevalence, but this difference **is not statistically significant**.This suggests a possible cumulative exposure effect, but the dataset cannot conclusively confirm it.
+
+#5. Analyze sex differences within each region.
+
+![Picture4.png](/Users/preciouschukwubem/Downloads/Picture4.png)
+![Picture5.png](/Users/preciouschukwubem/Downloads/Picture5.png)
+![Picture6.png](/Users/preciouschukwubem/Downloads/Picture6.png)
+![Picture7.png](/Users/preciouschukwubem/Downloads/Picture7.png)
+![Picture8.png](/Users/preciouschukwubem/Downloads/Picture8.png)
+![Picture9.png](/Users/preciouschukwubem/Downloads/Picture9.png)
+![Picture10.png](/Users/preciouschukwubem/Downloads/Picture10.png)
+![Picture11.png](/Users/preciouschukwubem/Downloads/Picture11.png)
+Females
+Region	             n	          Infected.       	Prevalence        	CI
+North	              21	             8	              38.1%	       19.7% - 59.7%
+Central	            5	               5	              100%	       50.0% - 100.0%
+South	              11	             11	              100%	        70.9% - 100%
+
+Males
+Region             	n	              Infected	      Prevalence	          CI
+North	             28	                 6	             21.4%	       10.2% - 41.5%
+Central	            9	                 4	             44.4%	       19.3% - 80.7%
+south	             32	                 16	             50.0%	       32.6% - 67.4%
+
+•	In Central and Southern regions, all females were infected. Males had lower prevalence everywhere. Sex differences are strongest where overall environmental infection pressure is high.
+
+CONCLUSION
+Infection with B. procyonis varies widely, with the highest prevalence in Central and South Asia. Females are more likely to become infected, particularly in high-risk settings. Age differences exist, but are not statistically significant. Worm burdens are highly aggregated, making a few number of heavily infected raccoons the primary cause of ambient egg contamination. These patterns highlight important risk gradients for wildlife, domestic animals, and human exposure in endemic areas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
