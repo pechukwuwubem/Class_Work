@@ -623,14 +623,219 @@ south	             32	                 16	             50.0%	       32.6% - 67.4
 CONCLUSION
 Infection with B. procyonis varies widely, with the highest prevalence in Central and South Asia. Females are more likely to become infected, particularly in high-risk settings. Age differences exist, but are not statistically significant. Worm burdens are highly aggregated, making a few number of heavily infected raccoons the primary cause of ambient egg contamination. These patterns highlight important risk gradients for wildlife, domestic animals, and human exposure in endemic areas.
 
+#Worksheet 9#
+
+*In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in the United States. What specific human behaviors contributed to the zoonotic spread of Salmonella? In your response, identify at least three practices by backyard poultry owners that increased the risk of Salmonella transmission, and briefly explain why these behaviors facilitated human infection*.
+
+1. Handling birds without washing hands afterward
+
+People frequently touched chickens, ducks, or their equipment and did not wash their hands, especially before eating or touching their face.
+Why this spreads Salmonella: The bacteria are shed in poultry feces and easily contaminate feathers, feet, beaks, and coops. Without handwashing, the pathogen is transferred directly into the mouth.
+
+2. Allowing poultry inside homes or close to human living spaces
+
+Some owners let birds roam inside kitchens, living rooms, or children’s play areas.
+Why this spreads Salmonella: Indoor contamination spreads the bacteria to surfaces, floors, and food-preparation areas, increasing environmental exposure and ingestion risk.
+
+3. Kissing, cuddling, or closely snuggling poultry
+
+Children and adults were reported to kiss, cuddle, or hold birds near their faces.
+Why this spreads Salmonella: Close contact brings contaminated feathers and droppings to the mouth and nose, creating a direct route of transmission.
+
+Additional risky behaviors often identified in outbreaks
+
+Eating or drinking around poultry coops.
+
+Letting children under five handle birds unsupervised.
+
+Cleaning coops or waterers indoors (e.g., in kitchen sinks).
+
+
+#2. Tall fescue grass is commonly infected with a fungal endophyte (Epichloë
+coenophiala) that produces ergot alkaloids associated with fescue toxicosis in
+grazing livestock.
+a. What advantage does Tall fescue gain from being infected with a fungal
+endophyte? 3 points
+b. What environmental and ecological factors drive the occurrence and severity of
+fescue toxicosis in grazing systems? 4 points
+c. What are the key clinical signs of fescue toxicity in cattle? 3 points
+
+
+a. Advantage to Tall Fescue (3 points)
+Infection with Epichloë coenophiala enhances tall fescue’s stress tolerance and competitive ability. Key benefits include:
+
+
+Improved drought tolerance – endophyte-infected plants maintain higher water-use efficiency and survive dry periods better.
+
+
+Enhanced resistance to insects and herbivores – alkaloids produced by the endophyte deter pests, reducing defoliation.
+
+
+Greater persistence and vigor – infected stands establish more strongly, outcompete weeds, and remain productive over years.
 
 
 
+b. Environmental and Ecological Factors Influencing Fescue Toxicosis (4 points)
+Several conditions intensify the risk and severity of toxicosis in grazing systems:
+
+
+High endophyte infection rates in pastures – more infected plants produce more ergot alkaloids consumed by livestock.
+
+
+Hot, humid summer weather – heat stress worsens vasoconstriction caused by alkaloids, amplifying clinical symptoms.
+
+
+Poor forage diversity / overgrazing – when tall fescue dominates, animals ingest higher quantities of toxic endophyte-infected plants.
+
+
+Plant stress conditions (drought, nutrient stress, late-season growth) – stress increases alkaloid concentrations in leaves and seeds.
 
 
 
+c. Key Clinical Signs of Fescue Toxicity in Cattle (3 points)
 
 
+Vasoconstriction leading to heat intolerance – rough hair coat, elevated body temperature, seeking shade or water.
+
+
+Reduced performance – decreased feed intake, poor weight gain, reduced milk production.
+
+
+Fescue foot and reproductive issues – lameness, sloughing of hooves or tail tips in cold weather; lowered fertility and longer gestation.
+
+
+#Worksheet 10#
+
+*What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF? 10 points*
+
+Routes of Transmission for African Swine Fever (ASF)
+
+1. Direct contact with infected pigs
+Healthy pigs become infected when they contact sick or carrier pigs shedding the virus in blood, saliva, feces, urine, or respiratory secretions.
+
+2. Indirect transmission via contaminated fomites
+The virus survives for long periods on equipment, vehicles, boots, clothing, needles, feed troughs, and bedding. Contact with these contaminated objects easily spreads ASF between farms.
+
+3. Ingestion of contaminated pork products (swill feeding)
+Feeding pigs uncooked or undercooked food waste containing infected pork remains one of the most efficient transmission routes.
+
+4. Tick-borne transmission (soft ticks, Ornithodoros spp.)
+These ticks act as biological vectors and reservoirs, enabling transmission between wild suids and sometimes domestic pigs.
+
+5. Transmission through wild suids (wild boar and warthogs)
+Wild populations maintain and spread the virus through their movements, carcasses, and interactions near domestic herds.
+
+6. Environmental contamination
+ASFV persists for weeks to months in soil, manure, and water sources, allowing exposure even without direct contact.
+
+Role of Humans in the Spread and Transmission of ASF
+
+7. Movement of infected pigs between farms or regions
+Humans transport pigs for trade or production, creating rapid, long-distance spread.
+
+8. Transport of contaminated pork products
+Travelers carrying infected meat, illegal importation, and improper disposal of pork waste introduce the virus into new areas.
+
+9. Poor biosecurity practices on farms
+Failure to disinfect equipment, sharing tools between farms, inadequate quarantine of new pigs, and improper cleaning of transport trucks allow the virus to move easily.
+
+10. Human-mediated mechanical transmission
+Farm workers, visitors, and veterinarians can mechanically transfer the virus on their hands, boots, clothing, and equipment if hygiene protocols are not followed.
+
+*Describe how co-infection with Koala retrovirus (KoRV) affects the severity, progression, and management of Chlamydia in koalas. 10 points*
+
+How KoRV Co-Infection Affects Chlamydia in Koalas
+1. Immunosuppression caused by KoRV
+
+KoRV—especially KoRV-A and KoRV-B—targets immune cells and weakens koalas’ adaptive immunity. This reduces their ability to control Chlamydia pecorum or C. pneumoniae, allowing the bacteria to proliferate more aggressively.
+
+2. Increased susceptibility to acquiring Chlamydia
+
+Koalas infected with KoRV show higher rates of initial Chlamydia infection because their compromised immune system cannot mount an effective early inflammatory response.
+
+3. More severe clinical disease
+
+KoRV-positive koalas typically develop the most severe chlamydial pathologies, including:
+
+Severe keratoconjunctivitis → blindness
+
+Cystitis and urinary tract inflammation
+
+Reproductive tract fibrosis → infertility
+
+KoRV amplifies the inflammatory damage caused by Chlamydia.
+
+4. Faster progression of Chlamydia disease
+
+Co-infected animals transition more rapidly from mild to chronic or systemic disease, leading to earlier organ damage and decreased survival.
+
+5. Reduced response to antibiotic treatment
+
+KoRV-impaired immunity limits the effectiveness of standard antibiotics (e.g., doxycycline). Koalas may relapse or fail to fully clear the infection even after treatment.
+
+6. Higher risk of secondary infections
+
+Because KoRV reduces overall immune competence, co-infected koalas become vulnerable to other opportunistic infections that complicate Chlamydia treatment and recovery.
+
+7. Increased mortality
+
+The combination of KoRV-driven immunosuppression and severe Chlamydia pathology significantly raises the risk of death, especially in young or stressed koalas.
+
+8. Management requires integrated viral and bacterial control
+
+Wildlife veterinarians must consider KoRV status when making treatment decisions. KoRV-positive animals often require longer antibiotic courses, more intensive monitoring, and supportive care.
+
+9. Implications for population management
+
+KoRV presence in a population predicts higher Chlamydia prevalence and poorer reproductive output. This complicates conservation—populations with widespread KoRV deteriorate faster when Chlamydia is present.
+
+10. Vaccine development and planning are affected
+
+Chlamydia vaccine efforts in koalas must account for KoRV-mediated immune dysfunction. Vaccines may be less effective in KoRV-positive individuals, influencing how vaccination strategies are designed and deployed.
+
+
+*Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging threat to wild snake populations in North America. What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)? 10 points*
+
+Key Challenges in Surveillance and Management of Snake Fungal Disease (SFD)
+1. Difficulty detecting snakes in the wild
+
+Snakes are cryptic, elusive, and often underground or inactive for long periods. This makes population-level surveillance extremely difficult and reduces detection probability.
+
+2. Limited diagnostic access and sampling opportunities
+
+Handling wild snakes is labor-intensive and requires permits. Obtaining skin samples, swabs, or biopsies is difficult, and many snakes show subtle lesions that can be mistaken for other injuries or infections.
+
+3. Lack of baseline data on snake populations
+
+For most North American snake species, pre-SFD population data are scarce. Without baseline metrics, determining declines or SFD-driven mortality is challenging.
+
+4. Variable clinical expression across species and individuals
+
+Some species show severe lesions and die, while others carry the fungus with mild or no signs. This variability complicates surveillance and risk assessment.
+
+5. Environmental persistence of the fungus
+
+Ophidiomyces ophiodiicola can survive in soil and leaf litter for extended periods. Environmental reservoirs make eradication nearly impossible and allow repeated exposure.
+
+6. Limited treatment options for free-ranging wildlife
+
+Antifungal treatments are feasible only for captive or rehabilitated snakes—not for wild populations. Delivering treatment in the field at scale is not possible.
+
+7. High stress and risk during capture and handling
+
+Snakes are sensitive to handling stress, and repeated captures for monitoring may negatively impact their health or survival.
+
+8. Insufficient funding and specialized expertise
+
+SFD surveillance requires herpetologists, wildlife pathologists, and molecular diagnostics. Many regions lack funding, trained personnel, or laboratory capacity.
+
+9. Ecological complexity and unknown transmission pathways
+
+The roles of environment, seasonality, and snake behavior in transmission are only partially understood, making it difficult to design targeted management.
+
+10. Slow regulatory response and conservation coordination
+
+Because many snake species are not charismatic or commercially valuable, management policies are slower to develop, and cross-state coordination is inconsistent.
 
 
 
