@@ -1,10 +1,14 @@
 ---
 title: "PC_DisEco_Fall2025"
-author: "Precious"
+author: "Precious Chukwubem"
 format: html
 execute: 
   echo: true
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Worksheet 1#
+
+*08/18/2025*
 
 Find area of a circle with radius 5 cm.
 
@@ -31,14 +35,15 @@ The image illustrates the ecological triad among *Epichloë* endophytes, cool‑
 Endophyte-derived alkaloids can deter insect herbivores and influence plant fitness, but some compounds contribute to livestock toxicoses. 
 This simple diagram helps frame host–microbe–consumer interactions that motivate genomic and metabolomic analyses in disease ecology and plant pathology.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Worksheet 2: Sample size for disease detection
+
+*09/22/2025*
 
 **Instructions:** I inserted the sample size table (linked) and answered questions 1–3 below using the sample size table and the Rule of 3 as requested. Do not change the filename when you upload this back to GitHub.
 
 ![Sample size table](https://raw.githubusercontent.com/anyadoc/audiseco/main/ss_table.png)
-
 ### Q1
 **Question:** Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
 
@@ -102,7 +107,11 @@ n <- 300
 p_upper <- 3 / n * 100  # Convert to percentage
 cat("95% confidence that prevalence is less than or equal to", p_upper, "%\n")
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Worksheet 3: Measures of Disease Frequency — Prevalence and Incidence
+
+*10/7/2025*
 
 ### a) Daily Incidence
 (From the table; first day they show RE or OD.)
@@ -173,6 +182,8 @@ The day when prevalence equals incidence numerically is **06/10/25**.
 Ticks are blood-feeding ectoparasites that infest humans, livestock, and wildlife, making their identification and control crucial in both veterinary and public health contexts. Tick identification
 generally depends on morphological and molecular techniques. Morphological identification involves analyzing external features like mouthparts, scutum patterns, festoons, and leg segmentation with a stereomicroscope and standard taxonomic keys to differentiate between genera (such as Ixodes, Amblyomma, Rhipicephalus) and developmental stages or patterns, such as a white dot on the female lone star tick or ornate designs on the American dog tick. Molecular techniques, including PCR and DNA barcoding of mitochondrial genes (such as cox1 or 16S rRNA), enable accurate species identification, particularly when morphological features are unclear or damaged. Ticks are significant in public health because they carry various zoonotic pathogens, such as Borrelia burgdorferi (which causes Lyme disease), Rickettsia rickettsii (responsible for Rocky Mountain spotted fever), Ehrlichia chaffeensis, Anaplasma phagocytophilum, and tick-borne encephalitis viruses. Their capacity to transmit multiple pathogens and their range expansion driven by climate and ecological changes make accurate tick identification crucial for surveillance, diagnosis, and control efforts to reduce tick-borne disease risks.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Exam Redo for 3 questions
 
 ## Question: In 2015, a mass die-off of Saiga antelope occurred in Kazakhstan, resulting in the deaths of over 200,000 animals within a short period. Briefly describe the proximate cause of this extraordinary mortality event and explain how it led to such large-scale deaths. What measures could be implemented to prevent similar mortality events in the future? Finally, discuss broader conservation strategies that could help safeguard Saiga antelopes from extinction due to disease outbreaks.
@@ -239,6 +250,7 @@ The year 2017 had the highest incidence of turtle fibroma, with an incidence of 
 
 The prevalence of turtle fibroma was lowest in 2015 and highest in 2017
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Oct 15, 2015 ##
 ## Worksheet 4: Multihost Pathogens, Spillover ##
@@ -324,6 +336,8 @@ Strict biosafety protocols: Decontaminate instruments, waste, and surfaces; use 
 
 Supportive care units: Designate specific facilities for viral hemorrhagic fevers to reduce risk to general ICUs.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Worksheet 6#
 
 *Using QPweb (Quantitative Parasitology)*
@@ -370,6 +384,7 @@ Pond2$vertico                     15       1      14       6.7
 
 ✅ Conclusion: There is no statistically significant difference in Vertico prevalence between the two ponds at the 95% confidence level.     
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Worksheet 7: Nipah Virus, Langya Henipavirus & Avian Reovirus#
 
@@ -535,6 +550,8 @@ Although LayV antibodies have been detected in some livestock (e.g., goats, dogs
 
 Current evidence implies limited receptor compatibility and replication efficiency in humans, meaning LayV lacks traits needed for epidemic potential, unlike Nipah virus or Hendra virus which show stronger human pathogenicity patterns.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Worksheet 8: EXAMINATION OF A RACOON ROUND WORM.#
 
 *Answers*
@@ -623,6 +640,8 @@ south	             32	                 16	             50.0%	       32.6% - 67.4
 CONCLUSION
 Infection with B. procyonis varies widely, with the highest prevalence in Central and South Asia. Females are more likely to become infected, particularly in high-risk settings. Age differences exist, but are not statistically significant. Worm burdens are highly aggregated, making a few number of heavily infected raccoons the primary cause of ambient egg contamination. These patterns highlight important risk gradients for wildlife, domestic animals, and human exposure in endemic areas.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Worksheet 9#
 
 *In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in the United States. What specific human behaviors contributed to the zoonotic spread of Salmonella? In your response, identify at least three practices by backyard poultry owners that increased the risk of Salmonella transmission, and briefly explain why these behaviors facilitated human infection*.
@@ -703,6 +722,7 @@ Reduced performance – decreased feed intake, poor weight gain, reduced milk pr
 
 Fescue foot and reproductive issues – lameness, sloughing of hooves or tail tips in cold weather; lowered fertility and longer gestation.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Worksheet 10#
 
@@ -836,6 +856,306 @@ The roles of environment, seasonality, and snake behavior in transmission are on
 10. Slow regulatory response and conservation coordination
 
 Because many snake species are not charismatic or commercially valuable, management policies are slower to develop, and cross-state coordination is inconsistent.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#FINAL EXAM#
+
+*12/2/2025*
+
+#1. True or False (With Explanations)
+
+1a : False
+
+Fenton and Pedersen (2005) describe true spillover as a situation where transmission from the reservoir species to the target species is limited (f₁₂ is low) and the pathogen cannot spread within the target species itself (f₂₂ = 0). Under these conditions, infections in the target host are only temporary. In contrast, when cross-species transmission is strong but the pathogen still cannot circulate within the target species, the infection may seem persistent; however, this persistence results entirely from continual introductions from the reservoir. Such a scenario reflects apparent multihost dynamics rather than genuine spillover.
+
+Fenton & Pedersen, 2005
+
+1b: False
+
+A virus that relies solely on vectors for transmission is infectious but not contagious, since contagion requires direct transmission between hosts—something vector-borne pathogens do not achieve.
+
+1c: False
+
+Baylisascaris procyonis eggs are not infective when first shed. They require 2–4 weeks of embryonation in the environment before they can infect humans, meaning direct, immediate contact does not result in transmission.
+
+1d: True
+
+The endophytic fungus in tall fescue synthesizes ergot alkaloids that suppress feed intake and diminish weight gain and milk yield. This syndrome, termed fescue toxicosis, is widely recognized in grazing cattle.
+
+1e: True
+
+Northern cardinals reach high viremia levels and serve as highly competent amplifying hosts for West Nile virus, positioning them as key superspreader species within bird communities.
+
+#2 Community-Based Interventions for Dracunculiasis
+
+Dracunculiasis, or Guinea worm disease, spreads when people consume water that contains copepods harboring the larvae of Dracunculus medinensis. Because there is no medication or vaccine against the parasite, successful control hinges solely on blocking transmission and disrupting its developmental cycle.
+
+One of the most effective measures has been providing reliable methods for filtering drinking water. These filters physically remove copepods—the organisms that carry the infective L3 larvae—thereby preventing the parasite from entering the body. Treating local water sources with the larvicide temephos (ABATE) offers an additional layer of protection by eliminating copepod populations altogether, cutting off the parasite’s aquatic stage and reducing exposure for communities reliant on surface water.
+
+Preventing infected individuals from contaminating water sources is equally vital. As the adult female worm exits the skin, she releases L1 larvae into any water she contacts. Covering wounds and ensuring that symptomatic individuals do not enter ponds or wells keeps these water bodies free of new larvae and halts the cycle of reinfection.
+
+Long-term success also depends on ongoing community education. Teaching people how the parasite is transmitted and why protective practices—such as careful water filtration and avoiding untreated sources—must be maintained strengthens adherence and encourages collective responsibility for keeping the disease from re-emerging.
+
+In recent years, strategies have been adjusted to confront the rise of infections in dogs, especially in Chad. This shift has prompted programs to introduce measures such as tethering infected dogs to keep them away from water sources, strengthening monitoring systems for canine cases, and promoting safe handling and thorough cooking of fish remnants. Dogs are believed to acquire the parasite by consuming raw or partially cooked fish entrails that contain infective larvae. These updates demonstrate how eradication efforts are adapting to new patterns of transmission as the disease’s epidemiology evolves.
+
+#3 Obstacles to Managing Chronic Wasting Disease (CWD)
+
+Chronic Wasting Disease is exceptionally difficult to manage because of the biology of prions, the way deer interact with their environment, and the limitations of current control tools. One of the most problematic features of the disease is the durability of prions in the environment. Once shed, they can persist in soil for many years and even adhere to vegetation, creating a long-lived source of infection that remains hazardous well after contaminated animals have died or moved on.
+
+CWD also progresses slowly, with infected deer shedding prions long before showing outward signs of illness. This prolonged, symptom-free phase allows the disease to circulate unnoticed, as prions are continuously released through saliva, urine, feces, and decomposing carcasses. Because no vaccine or effective therapy exists, wildlife managers must depend entirely on preventive strategies and broad population-level interventions.
+
+Surveillance poses another significant hurdle. Definitive testing requires lymphoid or brain tissues, meaning most diagnoses occur after death or require invasive sampling. These limitations delay early detection and make it difficult to pinpoint emerging hotspots. Deer movements and crowding further accelerate spread—particularly in areas where supplemental feeding, baiting, mineral sites, or fragmented habitats draw animals into unnaturally close contact.
+
+Management efforts are further complicated by public opposition to measures such as herd reduction, carcass transport restrictions, feeding bans, or targeted culling. Although many of these actions are scientifically justified, they are often unpopular, reducing compliance and limiting what agencies can feasibly implement.
+
+Together, these biological realities, ecological dynamics, and social constraints create a formidable set of obstacles and explain why CWD persists as one of the most challenging wildlife prion diseases in North America.
+Armadillo Incidence and Prevalence Calculations
+
+#4 Armadillo Incidence and Prevalence Calculations
+
+A closed population of 60 RFID-tagged armadillos was monitored from March to July 2025. No births, deaths, recoveries, or immigration occurred. All prevalence and incidence calculations therefore use the same population denominator (N = 60).
+
+4a: Monthly Incidence of Mycobacterium leprae Infection
+
+Incidence is calculated as:
+Incidence = (Number of new cases in the month) ÷ (Population at risk)
+
+March: 3 new cases → 3/60 = 0.05 per month (5%)
+
+April: An increase from 3 to 5 cases means 2 new cases → 2/60 = 0.033 per month (3.3%)
+
+May: Case count remained at 5, so 0 new cases → 0% incidence
+
+June: Total cases rose from 5 to 8, giving 3 new cases → 3/60 = 0.05 per month (5%)
+
+July: Cases increased from 8 to 13, yielding 5 new cases → 5/60 = 0.083 per month (8.3%)
+
+Highest incidence: July
+Lowest incidence: May (0%)
+
+4b: Monthly Prevalence of Mycobacterium leprae Infection
+
+Prevalence is calculated as:
+Prevalence = (Number of infected individuals) ÷ (Total population)
+
+March: 3/60 = 5%
+
+April: 5/60 = 8.3%
+
+May: 5/60 = 8.3%
+
+June: 8/60 = 13.3%
+
+July: 13/60 = 21.7%
+
+Highest prevalence: July (21.7%)
+Lowest prevalence: March (5%)
+
+#5 Tularemia Case in Beaver
+
+5a: Etiologic Agent and Subspecies
+Tularemia is caused by Francisella tularensis. Aquatic mammals, including beavers, are most commonly infected with the F. tularensis subspecies holarctica (Type B).
+
+5b: Routes of Transmission
+
+Bites from arthropods, including ticks and deer flies
+
+Direct contact with infected animal carcasses or tissues
+
+Consumption of contaminated food or water
+
+Inhalation of aerosolized bacteria
+
+Predation or scavenging of infected animals
+
+5c: Public Health Characteristics
+
+
+Highly infectious: infection can occur with just 10–50 organisms.
+
+
+Capable of causing severe illness in humans, including pneumonic, ulceroglandular, or typhoidal forms.
+
+
+Classified as a Tier 1 Select Agent because of its potential use in bioterrorism.
+
+
+Rapid antibiotic therapy is essential, as untreated infections can be serious or fatal.
+
+#6 Matching pathogen to deasease
+
+| Question Item                              | Correct Match                     |
+| ------------------------------------------ | --------------------------------- |
+| a. Fungal pathogen of conservation concern | 5. *Pseudogymnoascus destructans* |
+| b. Avian Vacuolar Myelinopathy             | 4. Aetokthonotoxin                |
+| c. Tick-transmitted viral disease          | 1. Powassan encephalitis          |
+| d. Foreign Animal Disease                  | 6. African Swine Fever            |
+| e. Bell’s palsy, bull’s-eye rash           | 3. *Borrelia burgdorferi*         |
+
+
+#7 Blacklegged Tick (Ixodes scapularis) Life Cycle
+
+7a: Stages capable of transmitting Lyme disease to humans: Nymphs and Adults
+
+7b: Preferred larval hosts: Small mammals (especially white-footed mice) and ground-dwelling birds
+
+7c: Peak seasons for human risk: Nymphal risk: Late spring to midsummer (May–July)
+
+7d: Reservoir competence: Natural reservoir: White-footed mice and other small mammals
+
+Role of white-tailed deer: Reproductive hosts, supporting adult ticks but not reservoir hosts for Borrelia burgdorferi.
+
+#8 Commentary on Georgia DNR’s Use of the Hypergeometric Distribution
+
+Georgia DNR’s surveillance approach for Chronic Wasting Disease (CWD) relied on testing 1,351 hunter-harvested deer out of an estimated population of 1 million and used the hypergeometric distribution to infer that CWD prevalence is likely below 0.2%. This method provides a statistically rigorous way to estimate the upper limit of disease prevalence when no positive cases are detected, allowing wildlife managers to make informed statements about the apparent absence of CWD at a population level.
+
+However, there are limitations to relying solely on the hypergeometric distribution in wildlife disease surveillance. First, it assumes that the sampled individuals are representative of the population and that each animal has an equal chance of being selected. In practice, hunter-harvested deer may not reflect the full spatial and age structure of the population, introducing sampling bias. Second, the method does not account for uneven disease distribution or clustering; CWD often occurs in localized hotspots, so a negative result across a broadly distributed sample may miss areas of higher prevalence. Third, hypergeometric calculations assume perfect diagnostic sensitivity and specificity, whereas real-world tests can produce false negatives, further reducing confidence in absence conclusions.
+
+In summary, while hypergeometric-based surveillance offers a useful statistical framework for estimating upper prevalence limits, managers should complement it with targeted sampling in high-risk areas, stratified sampling to capture population heterogeneity, and consideration of test limitations to ensure more robust conclusions about disease presence or absence.
+
+#9 Placing Diseases in Quadrants and Justification
+
+Based on the axes in the figure:
+
+X-axis: Rate of between-species transmission (β₁₂, H₁ → H₂)
+
+Y-axis: Rate of within-species transmission (β₂₂, H₂ → H₂)
+
+We can place the diseases as follows:
+
+Quadrant placement and rationale:
+
+SARS-CoV-2 → Top-right quadrant
+
+High within-species transmission in humans (β₂₂ high)
+
+Can spill over from animals (likely intermediate hosts), so between-species transmission exists (β₁₂ moderate to high).
+
+Hantavirus Pulmonary Syndrome (HPS) → Bottom-left quadrant
+
+Low human-to-human transmission (β₂₂ ≈ 0)
+
+Transmission primarily from rodent reservoirs (β₁₂ low to moderate)
+
+Infection in humans is incidental, with no sustained human outbreaks.
+
+Langya Henipavirus → Bottom-left quadrant
+
+Spillover from animal reservoirs, limited human-to-human transmission observed
+
+Low rates for both between- and within-species transmission in humans.
+
+Brucellosis → Bottom-right quadrant
+
+Human infection occurs primarily from animal reservoirs (β₁₂ high)
+
+Rare or inefficient human-to-human transmission (β₂₂ low)
+
+West Nile virus → Top-left quadrant
+
+Amplified in birds (high within-species transmission in avian hosts)
+
+Spillover to humans is incidental via mosquitoes (β₁₂ moderate), but humans are dead-end hosts
+
+Therefore, high within-species (bird) transmission, low between-species (to humans) efficiency.
+
+Reasoning: Quadrants separate diseases by likelihood of human-to-human spread and host range breadth. Zoonotic viruses with limited spread cluster in low-transmission quadrants, while human-adapted or vector-amplified pathogens fall into higher-risk categories.
+
+#10 Hosts in the Life Cycle of Anisakis simplex
+
+Based on the life cycle diagram of Anisakis simplex:
+
+Definitive host: Marine mammals (e.g., dolphins, seals, whales)
+
+Reason: The parasite reaches sexual maturity and reproduces only in these hosts.
+
+Dead-end host: Humans
+
+Reason: Humans become infected by ingesting larvae in fish or cephalopods, but the parasite cannot mature or reproduce in humans.
+
+Paratenic (transport) host: Seafish and cephalopods
+
+Reason: These hosts harbor infective L3 larvae without further development; they serve to transmit the parasite to the definitive host when eaten.
+
+Intermediate host: Crustaceans
+
+Reason: The free-living L3 larvae are ingested by crustaceans, where the larvae develop to the next larval stage (L3) but do not reach adulthood; they then serve as a link in the life cycle to fish or cephalopods.
+
+This classification follows standard parasitology definitions: the definitive host allows sexual reproduction, the intermediate host allows larval development, the paratenic host carries the parasite without development, and a dead-end host does not allow completion of the life cycle.
+
+#11 “All infected hosts are diseased” — Comment
+
+The statement “All infected hosts are diseased” is not always true. Infection refers to the presence of a pathogen in or on a host, whereas disease is the manifestation of symptoms caused by the pathogen. A host can be infected without showing disease symptoms.
+
+Examples:
+
+Asymptomatic carriers in humans: People infected with Salmonella or HIV may not show immediate symptoms but can still transmit the pathogen.
+
+Plants: Some tomato plants infected with Tomato yellow leaf curl virus may remain symptomless yet harbor the virus. Tall fescue with the endophytic fungus Epichloe spp.
+
+Animals: Cattle infected with Mycobacterium bovis may not always show signs of tuberculosis immediately.
+
+Thus, infection does not always equate to disease; disease depends on factors like pathogen virulence, host immunity, and environmental conditions.
+
+#12 Vaccination Threshold for Preventing PDV Outbreak in Seals
+
+To prevent an outbreak, the herd immunity threshold (HIT) can be calculated using the formula: HIT = 1 - 1/Ro
+
+Given 𝑅0 = 2.5 for Phocine Distemper Virus (PDV):
+
+HIT = 1 - 1/2.5 = 1 - 0.4 = 0.6
+
+So, 60% of the seal population should be effectively vaccinated to prevent a future PDV outbreak.
+
+This assumes the vaccine is fully protective and coverage is uniform across the population.
+
+#13 Main Challenges in Managing Wildlife Diseases
+
+Managing wildlife diseases is particularly challenging due to several ecological, logistical, and biological factors:
+
+1. Detection and Surveillance Difficulties
+
+Wild animals often roam large or inaccessible areas, making monitoring infections difficult.
+
+Example: Chronic Wasting Disease in deer is hard to detect early because infected animals may show no symptoms for months or years.
+
+2. High Mobility and Dispersal of Hosts
+
+Wildlife can move across large distances, spreading pathogens to new areas and populations.
+
+Example: Avian influenza spreads rapidly through migratory birds across continents.
+
+3. Lack of Vaccination or Treatment Options
+
+Administering vaccines or treatment to wild populations is logistically complex and costly.
+
+Example: Oral rabies vaccination programs in foxes or raccoons require bait distribution over large areas, which is resource-intensive.
+
+4. Zoonotic Spillover Risks
+
+Wildlife diseases can infect humans or domestic animals, complicating management.
+
+Example: Ebola virus outbreaks in African fruit bats can spill over into human populations.
+
+5. Ecological and Ethical Constraints
+
+Culling or intervention may disrupt ecosystems or provoke public opposition.
+
+Example: Culling badgers to control bovine tuberculosis in the UK is controversial due to ecological and ethical concerns.
+
+6. Environmental Factors
+
+Climate change, habitat fragmentation, and human encroachment can alter disease dynamics.
+
+Example: Tick-borne diseases like Lyme disease have expanded in range due to changes in temperature and host distribution.
+
+In summary, wildlife disease management must balance ecological realities, logistical feasibility, and public health concerns, often requiring integrated One Health approaches.
+
+
+
+
+
 
 
 
